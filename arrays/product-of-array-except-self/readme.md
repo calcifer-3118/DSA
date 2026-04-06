@@ -6,6 +6,3 @@
 - Time: O(n)
 - Space: O(1)
 
-### 2. Prefix/Postfix (single pass)
-- Time: O(n)
-- Space: O(n)
